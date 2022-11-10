@@ -2,7 +2,7 @@
 title: "Análisis de datos espaciales con R"
 author: "Jaime Alberto Prudencio Vázquez"
 date: "`r Sys.Date()`"
-knit: "bookdown::render_book"
+knit: "bookdown::gitbook"
 site: bookdown::bookdown_site
 output:
  bookdown::bs4_book:
