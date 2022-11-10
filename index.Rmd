@@ -4,12 +4,6 @@ author: "Jaime Alberto Prudencio Vázquez"
 date: "`r Sys.Date()`"
 knit: "bookdown::gitbook"
 site: bookdown::bookdown_site
-output:
- bookdown::bs4_book:
-  theme:
-    primary: "#3860b6"
-    base_font: "Segoe UI"
-  
 documentclass: book
 bibliography: [book.bib]
 fontsize: 11pt
@@ -37,6 +31,7 @@ Prólogo {-}
 =======
 
 <div style="text-align: justify">
+
 <a href="https://rpm-uam.blogspot.com/p/curso-software-r.html"><img src="Portada.png" width="300" height="425" alt="The geocompr book cover" align="right" style="margin: 0 1em 0 1em" /></a>
   
 Las ciencias regionales no son ya una disciplina menor, pasaron de ser una suerte de espacio para la experimentación de teorías y métodos que no tenían cabida en las corrientes principales de los cuerpos científicos plenamente reconocidos y se han  a se han ido abriendo paso y consolidando como una disciplina totalmente reconocida. Las ciencias regionales han ido adquiriendo “una amplia orientación multidisciplinaria sobre temas regionales y urbanos, combinando y siendo un complemento a la economía regional, geografía social y económica, economía urbana, ciencia del transporte, ciencia ambiental, ciencia política y teoría de la planificación” [@Fischer2014]. La realidad es que en los pasados 50 años las ciencias regionales han evolucionado como un campo de investigación en pleno derecho, esto tras un largo recorrido desde los inicios de la economía como ciencia, comenzando con los trabajos de Adam Smith que trataban algunos elementos relacionados con la localización de actividades comerciales, pasando por los estudios clásicos de Von Thünen, A. Weber, A. Lösch (todos ellos relacionados con la denominada teoría de la localización), hasta llegar a la consolidación de las ciencias regionales como disciplina gracias al impulso de [Walter Isaard](https://www.narsc.org/newsite/internal/isard/) que trata de brindar una perspectiva teórica y metodológica coherente con un fuerte soporte empírico desde una perspectiva multidisciplinaria. Las contribuciones de W. Isaard abarcan una multitud de campos tales como la ecología, el estudio de los transportes e incluso el manejo de conflictos sociales.
@@ -63,4 +58,3 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
-<div/>
