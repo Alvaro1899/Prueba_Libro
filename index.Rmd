@@ -32,7 +32,7 @@ Prólogo {-}
 
 <div style="text-align: justify">
 
-ESTE ES UN EJEMPLO
+ESTE ES UN EJEMPLO; Prueba 2
 
 <a href="https://rpm-uam.blogspot.com/p/curso-software-r.html"><img src="Portada.png" width="300" height="425" alt="The geocompr book cover" align="right" style="margin: 0 1em 0 1em" /></a>
   
