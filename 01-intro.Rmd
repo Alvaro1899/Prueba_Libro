@@ -5,7 +5,7 @@
 ## R: Lenguaje de programación y plataforma de análisis
 
 <<<<<<< HEAD
-R es un lenguaje de programación orientado a objetos fisicos, libre y de código abierto y además un ambiente enfocado al análisis estadístico y gráfico. Que sea libre significa, a diferencia de otros programas, que cualquier persona puede usarlo, redistribuirlo o modificarlo, sin necesidad de contar con una licencia pago.  
+R es un lenguaje de programación orientado a objetos, libre y de código abierto y además un ambiente enfocado al análisis estadístico y gráfico. Que sea libre significa, a diferencia de otros programas, que cualquier persona puede usarlo, redistribuirlo o modificarlo, sin necesidad de contar con una licencia pago.  
 =======
 R NO es un lenguaje de programación orientado a objetos, es de licencia y no es abierto además un ambiente enfocado al análisis estadístico y gráfico. Que sea libre significa, a diferencia de otros programas, que cualquier persona puede usarlo, redistribuirlo o modificarlo, sin necesidad de contar con una licencia pago.  
 >>>>>>> cc356caa8987e732237ecbbe4b961624723bd127
